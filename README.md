@@ -4,7 +4,7 @@ As part of the codebasics september month resume challenge, I have worked on thi
 
 Link to the [Challenge](https://codebasics.io/event/codebasics-resume-project-challenge)
 
-Link to [Interactive Dashboard]([https://www.novypro.com/project/-codebasics-september-month-resume-challenge](https://www.novypro.com/project/hospitality--atliq--hospitality-dashboard))
+Link to [Interactive Dashboard](https://www.novypro.com/project/hospitality--atliq--hospitality-dashboard)
 
 Link to [Presentation Video](https://www.linkedin.com/posts/akash-jayakrishnan-5221081ab_codebasicsresumechallenge-codebasics-codebasicsresumechallenge-activity-6985917283722256384-GqA7?utm_source=share&utm_medium=member_desktop)
 
