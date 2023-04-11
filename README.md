@@ -28,7 +28,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Provided Mock-up Dashboard
 <p align="center">
-    <img src="https://github.com/myselfakii19/Hospitality_Analytics_PowerBI/blob/main/images/mock%20up%20dashboard_atliq%20grands.png" width="600">
+    ![mock up dashboard_atliq grands](https://user-images.githubusercontent.com/64686346/231150374-3deb9981-f6f8-481c-be2d-39d96bcde9eb.png)
 </p>
 
 
