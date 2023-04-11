@@ -9,8 +9,6 @@ Link to [Interactive Dashboard](https://www.novypro.com/project/hospitality--atl
 Link to [Presentation Video](https://www.linkedin.com/posts/akash-jayakrishnan-5221081ab_codebasicsresumechallenge-codebasics-codebasicsresumechallenge-activity-6985917283722256384-GqA7?utm_source=share&utm_medium=member_desktop)
 
 
-
-
 ## Problem statement
 
 Atliq Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, Atliq Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of Atliq Grands wanted to incorporate “Business and Data Intelligence” in order to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
@@ -45,17 +43,17 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Insights from this project :-
 
-###1.Luxury
+- 1.Luxury
  has almost double bookings compared to business .The major factor that is lowering the bookings and revenue is the Atliq Seasons and creating their branches in major cities will have a good impact on their bookings. And the second way to increase the business bookings is to provide with subscription model and provide a great deal targeting companies in reasonable rates.
 
-###2.Elite room class has the most no. of bookings overall .By this we can conclude that people are more likely to book a medium luxurious suite for their purpose.
+- 2.Elite room class has the most no. of bookings overall .By this we can conclude that people are more likely to book a medium luxurious suite for their purpose.
 
-###3. About Atliq Seasons:
+- 3. About Atliq Seasons:
   
   a.Atliq Seasons contributes the least of overall bookings and revenue. Atliq Seasons have a branch only in Mumbai city.The strategy to overcome the decrease in bookings and revenue issue is increase the branches in other major cities other than Mumbai city.
 
   b.Presidential has a highest rating for all the different branches of Atliq,but Atliq Seasons has the least rating overall particualrly for Presidential. To get better ratings for Atliq Seasons ,you should increase facilities of each room class and get all the facilities with interesting packages like add-on breakfast buffet,free access to spa,etc in affordable and reasonable rates. 
 
-###4.Presidential has the highest occupancy ,highest ratings but least bookings.Presidential suite is one of the luxuriest suite and there are only two reasons of having the least bookings besides having the best rating.
+- 4.Presidential has the highest occupancy ,highest ratings but least bookings.Presidential suite is one of the luxuriest suite and there are only two reasons of having the least bookings besides having the best rating.
    a.Not affordable for majority of people besides best facilities. 
    b.Less marketting of the best facilities provided.
