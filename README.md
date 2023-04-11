@@ -32,10 +32,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Data Model
 
-<p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/data_model.png' height="400">
-</p>
-
+![Data Model](https://user-images.githubusercontent.com/64686346/231183571-13913a1e-88c3-4e65-9792-2fa47ab4aee4.PNG)
 
 ## KPI Page
 
@@ -45,3 +42,20 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Insights Page
 
 ![Insights page](https://user-images.githubusercontent.com/64686346/231182233-0b1b0797-5840-4177-b1ac-3177600abeeb.PNG)
+
+## Insights from this project :-
+
+###1.Luxury
+ has almost double bookings compared to business .The major factor that is lowering the bookings and revenue is the Atliq Seasons and creating their branches in major cities will have a good impact on their bookings. And the second way to increase the business bookings is to provide with subscription model and provide a great deal targeting companies in reasonable rates.
+
+###2.Elite room class has the most no. of bookings overall .By this we can conclude that people are more likely to book a medium luxurious suite for their purpose.
+
+###3. About Atliq Seasons:
+  
+  a.Atliq Seasons contributes the least of overall bookings and revenue. Atliq Seasons have a branch only in Mumbai city.The strategy to overcome the decrease in bookings and revenue issue is increase the branches in other major cities other than Mumbai city.
+
+  b.Presidential has a highest rating for all the different branches of Atliq,but Atliq Seasons has the least rating overall particualrly for Presidential. To get better ratings for Atliq Seasons ,you should increase facilities of each room class and get all the facilities with interesting packages like add-on breakfast buffet,free access to spa,etc in affordable and reasonable rates. 
+
+###4.Presidential has the highest occupancy ,highest ratings but least bookings.Presidential suite is one of the luxuriest suite and there are only two reasons of having the least bookings besides having the best rating.
+   a.Not affordable for majority of people besides best facilities. 
+   b.Less marketting of the best facilities provided.
