@@ -37,14 +37,11 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 </p>
 
 
-## Overall Analysis View
+## KPI Page
 
-<p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/overall_view.png' width="600">
-</p>
+![KPI Page](https://user-images.githubusercontent.com/64686346/231182188-46ed4f46-89da-4518-a5b9-3bce4ecbbfe9.PNG)
 
-## Monthly Analysis View
 
-<p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/monthly_view.png' width="600">
-</p>
+## Insights Page
+
+![Insights page](https://user-images.githubusercontent.com/64686346/231182233-0b1b0797-5840-4177-b1ac-3177600abeeb.PNG)
