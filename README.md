@@ -28,7 +28,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Provided Mock-up Dashboard
 
-    ![mock up dashboard_atliq grands](https://user-images.githubusercontent.com/64686346/231150374-3deb9981-f6f8-481c-be2d-39d96bcde9eb.png)
+   (https://user-images.githubusercontent.com/64686346/231150374-3deb9981-f6f8-481c-be2d-39d96bcde9eb.png)
 
 
 ## Data Model
